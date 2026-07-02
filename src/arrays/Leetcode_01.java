@@ -1,6 +1,6 @@
 package arrays;
 
-public class TwoSum {
+public class Leetcode_01 {
 
 	public int[] twoSum(int[] nums, int target) {
         int[] arr = new int[2];
